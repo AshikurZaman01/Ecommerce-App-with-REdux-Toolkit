@@ -5,7 +5,7 @@ const Spinner = () => {
     return (
         <div className="flex justify-center items-center h-40">
             <motion.div
-                className="relative flex items-center justify-center h-16 w-16"
+                className="relative flex items-center justify-center h-24 w-24" // Increased width
                 animate={{ rotate: 360 }}
                 transition={{
                     repeat: Infinity,
