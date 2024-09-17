@@ -27,7 +27,10 @@ const Products = () => {
             <div>
                 <div className="container mx-auto p-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
                     {
-                        !isLoading && !error && products && products.length > 0 && products.map((product) => <Product key={product.id} products={product}></Product>)
+                        !isLoading && !error && products && products.length > 0 &&
+                        products.slice().reverse().map((product) => (
+                            <Product key={product.id} products={product}></Product>
+                        ))
                     }
                 </div>
             </div>

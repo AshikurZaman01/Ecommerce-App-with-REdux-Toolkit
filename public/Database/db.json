@@ -1,109 +1,124 @@
 {
-    "products" : [
+    "products": [
         {
             "id": 1,
             "title": "Essence Mascara Lash Princess",
             "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
             "price": 9.99,
-            "images": ["https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"],
+            "category": "Makeup"
         },
         {
             "id": 2,
             "title": "Eyeshadow Palette with Mirror",
             "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
             "price": 19.99,
-            "images": ["https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"],
+            "category": "Makeup"
         },
         {
             "id": 3,
             "title": "Powder Canister",
             "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
             "price": 14.99,
-            "images": ["https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"],
+            "category": "Makeup"
         },
         {
             "id": 4,
             "title": "Red Lipstick",
             "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
             "price": 12.99,
-            "images": ["https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"],
+            "category": "Makeup"
         },
         {
             "id": 5,
             "title": "Foundation Stick",
             "description": "The Foundation Stick is a full-coverage foundation that blends easily for a natural finish. Perfect for quick and precise application.",
             "price": 17.99,
-            "images": ["https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"],
+            "category": "Makeup"
         },
         {
             "id": 6,
             "title": "Blush Compact",
             "description": "The Blush Compact gives your cheeks a natural and radiant glow. Available in various shades for different skin tones.",
             "price": 11.99,
-            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/1.png"],
+            "category": "Makeup"
         },
         {
             "id": 7,
             "title": "Nail Polish Set",
             "description": "This Nail Polish Set features a variety of trendy colors, perfect for manicures and pedicures. Long-lasting and chip-resistant.",
             "price": 8.99,
-            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png"],
+            "category": "Nail Care"
         },
         {
             "id": 8,
             "title": "Makeup Sponge",
             "description": "This Makeup Sponge provides flawless blending for foundation and concealer application. Its soft and durable material ensures smooth coverage.",
             "price": 5.99,
-            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png"],
+            "category": "Makeup Tools"
         },
         {
             "id": 9,
             "title": "Eyeliner Pen",
             "description": "The Eyeliner Pen offers precision and control for creating bold or subtle lines. Its long-lasting formula ensures all-day wear.",
             "price": 6.99,
-            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/1.png"],
+            "category": "Makeup"
         },
         {
             "id": 10,
             "title": "Highlighter Palette",
             "description": "The Highlighter Palette adds a luminous glow to your face, perfect for highlighting cheekbones, nose, and brow bones.",
             "price": 16.99,
-            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png"],
+            "category": "Makeup"
         },
         {
             "id": 11,
             "title": "Lip Balm Trio",
             "description": "The Lip Balm Trio keeps your lips hydrated and soft with a variety of refreshing scents. Perfect for everyday use.",
             "price": 7.99,
-            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png"],
+            "category": "Lip Care"
         },
         {
             "id": 12,
             "title": "Concealer Wand",
             "description": "The Concealer Wand covers blemishes and dark circles with ease, offering a smooth, crease-resistant finish.",
             "price": 10.99,
-            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/1.png"],
+            "category": "Makeup"
         },
         {
             "id": 13,
             "title": "Brow Gel",
             "description": "The Brow Gel tames and shapes your eyebrows, providing long-lasting hold and a natural finish.",
             "price": 9.49,
-            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png"],
+            "category": "Makeup"
         },
         {
             "id": 14,
             "title": "Makeup Brush Set",
             "description": "This Makeup Brush Set includes brushes for all your makeup needs, from foundation to eyeshadow, made with soft and durable bristles.",
             "price": 24.99,
-            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/3.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/3.png"],
+            "category": "Makeup Tools"
         },
         {
             "id": 15,
             "title": "Setting Spray",
             "description": "The Setting Spray keeps your makeup in place all day, providing a refreshing and long-lasting finish.",
             "price": 13.99,
-            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png"]
+            "images": ["https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/1.png"],
+            "category": "Makeup"
         }
     ]
 }
